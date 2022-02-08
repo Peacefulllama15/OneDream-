@@ -1,6 +1,6 @@
-V0.5.1
-# Friday Night Funkin' - Psych Engine
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+V2.0.0Beta
+# Friday Night Funkin' - OneDreams💡
+This Mod was made by Renna-the-artist or known Peacefulllama15 this mod is inspired by OneShot the mod that was made by Unibrine so this mod will not have the same things and the same mechanics then I hope you like the mod and the source code this source was made by a [Portuguese from Portugal] I don't know his nickname here on github but he made this source and half of the credits goes to Saw who ported Psynchengnine to mobile to 5.1
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
